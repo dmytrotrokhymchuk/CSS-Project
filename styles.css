@@ -1,0 +1,128 @@
+body{
+  margin:0;
+    text-align: center;
+    font-family:'Open Sans', sans-serif;
+    color:#40514E;
+}
+
+h1{
+  font-size: 5rem;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  color: #66BFBF;
+}
+p{
+  line-height: 2;
+}
+.p1-color{
+  color: #40514E;
+  width: 40%;
+  margin: auto;
+}
+hr{
+  border: dotted #EAF6F6 8px;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+}
+h2{
+  font-family:'Merriweather', serif;
+  font-size: 1.7rem;
+  color: #66BFBF;
+}
+h3{
+  font-family:'Merriweather', serif;
+  font-size: 1.2rem;
+  color: #11999E;
+}
+.student{
+  margin-top:0;
+  font-weight: normal;
+}
+.top-container{
+  position:relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+}
+.name{
+  text-decoration: underline;
+  color:navy;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  top: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right:275px;
+  top:50px;
+}
+.my-ava{
+  position: relative;
+  margin-top: 20px;
+  width: 15%
+}
+
+.computer{
+  position: relative;
+  margin-top: 20px;
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.soccer{
+  position: relative;
+  margin-top: 20px;
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  padding: 20px;
+}
+.middle-container{
+  margin: 50px 0;
+}
+.btn {
+   background: #11999E;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Merriweather', serif;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 10px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #11999E;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.bottom-container{
+background-color: #66BFBF;
+margin: 50px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.last-p{
+  color: #EAF6F6;
+  padding-bottom:20px;
+  font-size: 0.75rem;
+}
+.footer-link{
+  color: #11999E;
+  display: inline-block;
+  margin: 30px;
+  text-decoration: none;
+
+}
